@@ -1,0 +1,43 @@
+element style
+{
+    
+}
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    min-height: 100vh;
+    font-family: arial;
+    flex-direction: column;
+    color:white;
+
+}
+
+.info-container
+{
+    border-radius: 25px;
+    border: 5px solid yellow;
+    padding: 20px; 
+    width: 500px;
+    height: 300px; 
+}
+
+.button
+{
+
+    background-color: White; /* Green */
+    border: none;
+    color: black;
+    padding: 8px 22px;
+    text-align: center;
+    text-decoration :;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+
+
+}
+}
+
